@@ -1,0 +1,8 @@
+/* WelcomePage.css */
+.bg-gradient-to-r {
+    background: linear-gradient(to right, #4299e1, #9f7aea);
+  }
+  .hover\:bg-gray-200:hover {
+    background-color: #e2e8f0;
+  }
+  
